@@ -1,0 +1,20 @@
+{
+    "course": [
+      {
+        "id": 1,
+        "name": "Bootstrap",
+        "description": "Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins."
+      },
+      {
+        "id": 2,
+        "name": "Javascript",
+        "description": "JavaScript is a scripting or programming language that allows you to implement complex features on web pages"
+      },
+      
+      {
+        "id": 3,
+        "name": "ReactJs",
+        "description": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes."
+      }
+    ]
+  }

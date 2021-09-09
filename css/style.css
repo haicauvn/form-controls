@@ -1,0 +1,37 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#main {
+  width: 600px;
+  margin: 50px auto;
+}
+
+form {
+  display: block;
+}
+
+input {
+  height: 30px;
+}
+
+#courses-block {
+  margin-top: 30px;
+}
+
+ul.courses {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+button {
+  margin: 15px 10px 0  0 ;
+  padding: 5px 15px;
+  border: none;
+  border: 1px solid;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
